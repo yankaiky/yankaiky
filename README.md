@@ -54,7 +54,7 @@ const aboutMe = {
 };
 ```
 
-- 💻 I build **scalable SaaS products, web applications and APIs**
+- 💻 I build **scalable SaaS products, web & mobile applications and APIs**
 
 - 🧠 I work mainly with **TypeScript, Go, Node.js, React, Vite, NestJS and PostgreSQL**
 
