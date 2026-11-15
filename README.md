@@ -62,7 +62,7 @@ const aboutMe = {
 
 - 🏗️ Interested in **software architecture, multi-tenant systems and developer experience**
 
-- 🚀 Co-Founder & CTO at **WideWebs**, building software and digital products
+- 🚀 Co-Founder & CTO at **Wide Webs**, building software and digital products
 
 - 📫 How to reach me **[yankaiky.com](https://yankaiky.com)**
 
