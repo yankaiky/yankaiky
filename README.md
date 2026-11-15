@@ -44,7 +44,7 @@ const skills = {
 };
 
 const aboutMe = {
-  summary: `Full Stack Developer focused on building scalable SaaS products,
+  summary: `Full Stack Engineer focused on building scalable SaaS products,
   APIs and web applications with modern technologies. I enjoy turning
   complex problems into simple, maintainable and useful software.`,
 
