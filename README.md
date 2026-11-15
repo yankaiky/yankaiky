@@ -44,7 +44,7 @@ const skills = {
 };
 
 const aboutMe = {
-  summary: `Full Stack Engineer focused on building scalable SaaS products,
+  summary: `Full Stack Developer focused on building scalable SaaS products,
   APIs and web applications with modern technologies. I enjoy turning
   complex problems into simple, maintainable and useful software.`,
 
@@ -88,10 +88,12 @@ const aboutMe = {
     <td align="center" width="100"><strong>React</strong><br><img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
     <td align="center" width="100"><strong>Vite</strong><br><img height="32" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></td>
     <td align="center" width="100"><strong>Next.js</strong><br><img height="32" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></td>
+    <td align="center" width="100"><strong>Tailwind</strong><br><img height="32" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></td>
   </tr>
   <tr>
     <td align="center" width="100"><strong>Node.js</strong><br><img height="32" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></td>
     <td align="center" width="100"><strong>NestJS</strong><br><img height="32" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"></td>
+    <td align="center" width="100"><strong>Prisma</strong><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/white"><img height="32" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"></picture></td>
     <td align="center" width="100"><strong>Go</strong><br><img height="32" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></td>
     <td align="center" width="100"><strong>Docker</strong><br><img height="32" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></td>
   </tr>
@@ -99,6 +101,7 @@ const aboutMe = {
     <td align="center" width="100"><strong>PostgreSQL</strong><br><img height="32" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></td>
     <td align="center" width="100"><strong>MySQL</strong><br><img height="32" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></td>
     <td align="center" width="100"><strong>MongoDB</strong><br><img height="32" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></td>
+    <td align="center" width="100"><strong>Neon</strong><br><img height="32" alt="Neon" src="https://cdn.simpleicons.org/neon/00E599"></td>
     <td align="center" width="100"><strong>Supabase</strong><br><img height="32" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></td>
   </tr>
   <tr>
@@ -106,6 +109,7 @@ const aboutMe = {
     <td align="center" width="100"><strong>DigitalOcean</strong><br><img height="32" alt="DigitalOcean" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></td>
     <td align="center" width="100"><strong>Cloudflare</strong><br><img height="32" alt="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"></td>
     <td align="center" width="100"><strong>Hostinger</strong><br><img height="32" alt="Hostinger" src="https://cdn.simpleicons.org/hostinger/673DE6"></td>
+    <td align="center" width="100"><strong>Linux</strong><br><img height="32" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></td>
   </tr>
 </table>
 
