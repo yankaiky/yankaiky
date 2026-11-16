@@ -20,7 +20,9 @@ const status = {
 const skills = {
   languages: ["TypeScript", "JavaScript", "Go", "SQL"],
 
-  frontEnd: ["React", "Next.js", "Vite", "Tailwind CSS", "shadcn/ui"],
+  frontEnd: ["React", "Vite", "Next.js", "Tailwind CSS", "shadcn/ui"],
+
+  mobile: ["Flutter", "React Native", "Expo"],
 
   backEnd: ["Node.js", "NestJS", "Go", "REST APIs"],
 
@@ -87,8 +89,8 @@ const aboutMe = {
     <td align="center" width="100"><strong>TypeScript</strong><br><img height="32" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
     <td align="center" width="100"><strong>React</strong><br><img height="32" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
     <td align="center" width="100"><strong>Vite</strong><br><img height="32" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></td>
-    <td align="center" width="100"><strong>Next.js</strong><br><img height="32" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></td>
-    <td align="center" width="100"><strong>Tailwind</strong><br><img height="32" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></td>
+    <td align="center" width="100"><strong>Flutter</strong><br><img height="32" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></td>
+    <td align="center" width="100"><strong>Expo</strong><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/white"><img height="32" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg"></picture></td>
   </tr>
   <tr>
     <td align="center" width="100"><strong>Node.js</strong><br><img height="32" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></td>
